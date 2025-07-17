@@ -17,7 +17,7 @@ A web-based Movie Recommender System built with Streamlit. This app suggests mov
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/captainpc786/mrs-system>
    cd movie-recommender
    ```
 2. **Install dependencies:**
