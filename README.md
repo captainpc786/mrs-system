@@ -11,6 +11,8 @@ A web-based Movie Recommender System built with Streamlit. This app suggests mov
 ## Demo
 ![Demo Screenshot](demo_screenshot.png)
 
+**Live App:** [https://mrs-system-23glkb7jpwnvotrjakcnym.streamlit.app/](https://mrs-system-23glkb7jpwnvotrjakcnym.streamlit.app/)
+
 ## Installation
 
 1. **Clone the repository:**
@@ -54,8 +56,6 @@ movie recommanded/
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE) *(Add a LICENSE file if needed)*
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com]. 
+For questions or feedback, please contact pushpendrachauhan9494@gmail.com. 
